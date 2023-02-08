@@ -2,7 +2,7 @@ from classes.criterion import Criterion
 from classes.decision_maker import DecisionMaker
 
 
-class CriterionJudgement:
+class CriterionJudgment:
     """Representation of the DM's judgement about the weight of the Criterion"""
 
     positive_distance = float
